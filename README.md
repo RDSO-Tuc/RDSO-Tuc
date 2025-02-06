@@ -1,2 +1,0 @@
-# Profile
-Portfólio para apresentação.
